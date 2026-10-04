@@ -6,7 +6,7 @@
 #   brew install --cask quickshort
 cask "quickshort" do
   version "0.2.0"
-  sha256 "a17dcddf16b9a9ca58e29fcdff0d08df77e6fc5de35f8610521ea5b04e3b164b"
+  sha256 "eef86f91b6ac183955a6c994c268e77d32907beaac77ce334a83bce9ada7bc73"
 
   url "https://github.com/truongnat/quickshort/releases/download/v#{version}/Quickshort-v#{version}-macos.zip"
   name "Quickshort"
