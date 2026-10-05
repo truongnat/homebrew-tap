@@ -5,8 +5,8 @@
 #   brew tap truongnat/tap
 #   brew install --cask quickshort
 cask "quickshort" do
-  version "0.3.0"
-  sha256 "18580f0c6596e0dc8a1f52b59bf2e5ec783a19c98d992b16a9281ef44c1247e7"
+  version "0.3.1"
+  sha256 "c0889023d9bb3fa6390283f2e3d4cd225558a97719e47bcfa91b8ae34e6b9ab6"
 
   url "https://github.com/truongnat/quickshort/releases/download/v#{version}/Quickshort-v#{version}-macos.zip"
   name "Quickshort"
